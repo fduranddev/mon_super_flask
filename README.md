@@ -1,4 +1,4 @@
-## create a new repository on the command line
+## Création du répertoire `mon_super_flask`
 
 ```bash
 echo "# mon_super_flask" >> README.md
@@ -10,7 +10,7 @@ git remote add origin https://github.com/fduranddev/mon_super_flask.git
 git push -u origin main
 ```
 
-## push an existing repository from the command line
+## On pousse le répertoire `mon_super_flask`
 
 ```bash
 git remote add origin https://github.com/fduranddev/mon_super_flask.git
